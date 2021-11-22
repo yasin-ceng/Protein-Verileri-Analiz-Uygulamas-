@@ -1,0 +1,20 @@
+C:\Users\Yasin\source\repos\gorsel_odev1\gorsel_odev1\obj\Debug\gorsel_odev1.csprojAssemblyReference.cache
+C:\Users\Yasin\source\repos\gorsel_odev1\gorsel_odev1\obj\Debug\gorsel_odev1.Form1.resources
+C:\Users\Yasin\source\repos\gorsel_odev1\gorsel_odev1\obj\Debug\gorsel_odev1.Properties.Resources.resources
+C:\Users\Yasin\source\repos\gorsel_odev1\gorsel_odev1\obj\Debug\gorsel_odev1.csproj.GenerateResource.cache
+C:\Users\Yasin\source\repos\gorsel_odev1\gorsel_odev1\obj\Debug\gorsel_odev1.csproj.CoreCompileInputs.cache
+C:\Users\Yasin\source\repos\gorsel_odev1\gorsel_odev1\bin\Debug\gorsel_odev1.exe.config
+C:\Users\Yasin\source\repos\gorsel_odev1\gorsel_odev1\bin\Debug\gorsel_odev1.exe
+C:\Users\Yasin\source\repos\gorsel_odev1\gorsel_odev1\bin\Debug\gorsel_odev1.pdb
+C:\Users\Yasin\source\repos\gorsel_odev1\gorsel_odev1\obj\Debug\gorsel_odev1.exe
+C:\Users\Yasin\source\repos\gorsel_odev1\gorsel_odev1\obj\Debug\gorsel_odev1.pdb
+D:\Bilgisayar Mühendisliği\2.SINIF\Görsel Programlama\vize_odev\201613172907YasinCAN\odev1\gorsel_odev1\gorsel_odev1\bin\Debug\gorsel_odev1.exe.config
+D:\Bilgisayar Mühendisliği\2.SINIF\Görsel Programlama\vize_odev\201613172907YasinCAN\odev1\gorsel_odev1\gorsel_odev1\bin\Debug\gorsel_odev1.exe
+D:\Bilgisayar Mühendisliği\2.SINIF\Görsel Programlama\vize_odev\201613172907YasinCAN\odev1\gorsel_odev1\gorsel_odev1\bin\Debug\gorsel_odev1.pdb
+D:\Bilgisayar Mühendisliği\2.SINIF\Görsel Programlama\vize_odev\201613172907YasinCAN\odev1\gorsel_odev1\gorsel_odev1\obj\Debug\gorsel_odev1.csprojAssemblyReference.cache
+D:\Bilgisayar Mühendisliği\2.SINIF\Görsel Programlama\vize_odev\201613172907YasinCAN\odev1\gorsel_odev1\gorsel_odev1\obj\Debug\gorsel_odev1.Form1.resources
+D:\Bilgisayar Mühendisliği\2.SINIF\Görsel Programlama\vize_odev\201613172907YasinCAN\odev1\gorsel_odev1\gorsel_odev1\obj\Debug\gorsel_odev1.Properties.Resources.resources
+D:\Bilgisayar Mühendisliği\2.SINIF\Görsel Programlama\vize_odev\201613172907YasinCAN\odev1\gorsel_odev1\gorsel_odev1\obj\Debug\gorsel_odev1.csproj.GenerateResource.cache
+D:\Bilgisayar Mühendisliği\2.SINIF\Görsel Programlama\vize_odev\201613172907YasinCAN\odev1\gorsel_odev1\gorsel_odev1\obj\Debug\gorsel_odev1.csproj.CoreCompileInputs.cache
+D:\Bilgisayar Mühendisliği\2.SINIF\Görsel Programlama\vize_odev\201613172907YasinCAN\odev1\gorsel_odev1\gorsel_odev1\obj\Debug\gorsel_odev1.exe
+D:\Bilgisayar Mühendisliği\2.SINIF\Görsel Programlama\vize_odev\201613172907YasinCAN\odev1\gorsel_odev1\gorsel_odev1\obj\Debug\gorsel_odev1.pdb
